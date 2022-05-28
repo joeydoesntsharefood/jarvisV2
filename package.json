@@ -1,0 +1,12 @@
+{
+  "name": "jarvisV2",
+  "version": "1.0.0",
+  "description": "Jarvis is my robot for automatic tasks",
+  "main": "index.js",
+  "author": "mkays",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "shelljs": "^0.8.5"
+  }
+}
